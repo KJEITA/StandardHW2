@@ -3,7 +3,9 @@
     <color name="colorPrimary">#027C02</color>
     <color name="colorPrimaryDark">#02422B</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorSecondary">#03DAC5</color>
     <color name="Green">#6FCF97</color>
     <color name="Black">#DE000000</color>
-    <color name="Holo">#6FCF97</color>
+    <color name="White">#FFFFFF</color>
+
 </resources>
