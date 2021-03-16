@@ -1,0 +1,2 @@
+rootProject.name = "standardHW2"
+include ':app'
